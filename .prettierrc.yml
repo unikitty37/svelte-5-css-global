@@ -1,0 +1,12 @@
+useTabs: false
+tabWidth: 2
+printWidth: 120
+semi: false
+singleQuote: true
+trailingComma: es5
+arrowParens: always
+svelteSortOrder: 'options-scripts-markup-styles'
+svelteStrictMode: false
+svelteAllowShorthand: false
+svelteBracketNewLine: true
+svelteIndentScriptAndStyle: true
